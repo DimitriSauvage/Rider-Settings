@@ -16,11 +16,14 @@
   <action id="ExpandDocComments">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl colon" />
   </action>
+  <action id="QuickActionPopup">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="XDebugger.EditWatch">
