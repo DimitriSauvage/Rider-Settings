@@ -4,16 +4,22 @@
     <property name="created">2020-05-05T11:05:03</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-05T11:09:05</property>
+    <property name="modified">2020-05-12T11:04:22</property>
     <property name="originalScheme">Visual Studio Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <attributes>
+    <option name="ReSharper.CSHARP_INTERFACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="838b22" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
   </attributes>
